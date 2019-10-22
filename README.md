@@ -3,4 +3,4 @@ A package for Unity that contains tools to interact with the Genie Robot's syste
 # Introduction
 This API is built for the Genie robot (https://www.genieconnect.co.uk/) to allow for the robots functionality to be accessed via the Unity's C# scripting
 # Installation
-To install
+To install into unity, download the  go to Assets > 
