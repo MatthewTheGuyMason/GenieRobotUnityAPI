@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAndroidStudioProject.iml" filepath="$PROJECT_DIR$/ARRAndroidStudioProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenieUnityLibrary/GenieUnityLibrary.iml" filepath="$PROJECT_DIR$/GenieUnityLibrary/GenieUnityLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YYDSDK-1.2.0/YYDSDK-1.2.0.iml" filepath="$PROJECT_DIR$/YYDSDK-1.2.0/YYDSDK-1.2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unity-classes/unity-classes.iml" filepath="$PROJECT_DIR$/unity-classes/unity-classes.iml" />
+    </modules>
+  </component>
+</project>

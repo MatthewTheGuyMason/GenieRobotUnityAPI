@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:YYDSDK-1.2.0:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YYDSDK-1.2.0/build/.transforms/40d514b4d767e6b47aacd7ce88914420/YYDSDK-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/YYDSDK-1.2.0/build/.transforms/40d514b4d767e6b47aacd7ce88914420/YYDSDK-1.2.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

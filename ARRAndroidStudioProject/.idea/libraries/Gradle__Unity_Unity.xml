@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: Unity.Unity">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Unity/Unity.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
