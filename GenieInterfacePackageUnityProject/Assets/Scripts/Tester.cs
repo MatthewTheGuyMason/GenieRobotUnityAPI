@@ -80,7 +80,7 @@ public class Tester : MonoBehaviour
     #region Tests
     public void LoadJavaClassTest()
     {
-        GenieInterface.Initalize();
+        GenieInterface.Initialize();
     }
 
     public void DeinitTest()

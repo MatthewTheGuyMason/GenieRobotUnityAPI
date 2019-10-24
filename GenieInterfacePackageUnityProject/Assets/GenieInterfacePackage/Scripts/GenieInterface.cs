@@ -142,7 +142,7 @@ namespace GenieUnityInterface
         /// Initializes the genie robot functionality on the Java end.
         /// Messages will be sent from the Java side if it is successful or not
         /// </summary>
-        public static void Initalize()
+        public static void Initialize()
         {
             EnsureJavaClassExists();
             genieInterfaceJavaClass.CallStatic("InitializeRobot");
