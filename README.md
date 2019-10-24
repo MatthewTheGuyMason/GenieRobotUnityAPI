@@ -18,7 +18,7 @@ public class MyClass : MonoBehaviour
 {
     private void Start()
     {
-        GenieInterface.Initalize()
+        GenieInterface.Initialize()
     }
 }
 ```
